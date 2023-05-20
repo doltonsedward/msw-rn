@@ -1,0 +1,12 @@
+**/node_modules/**
+**/build/**
+**/dist/**
+.eslintrc.js
+.eslintrc.front.js
+.eslintrc.back.js
+*.log
+yarn.lock
+*.json
+.prettierrc
+.github/
+log
